@@ -1,0 +1,14 @@
+1 create list with_sublist
+2
+3 i=-1
+4 check i less than number of items in marks
+	**3 items in marks, [(0),(1),(2),(3)]**
+
+5  if while condition correct , i=i+1
+6 check every item's second value larger than 50
+	**[(0,"1",2)]**
+
+7 if condition correct , continue 
+8 print every(once a time when repeat while loop ) item's 1st value
+
+answer is amarafahim
