@@ -1,0 +1,21 @@
+1 create def called list_operation
+2 loop the nlist length of number_list
+3 if nlist's item position even item will be square,
+	[1,2,3,4,5]
+	0 1 2 3 4
+	
+4	0/2 remain 0 so 1*1
+        1/2 remain 1 so skip 
+	2/2 remain 0 so 3*3
+	3/2 remain 1 so skip
+	4/2 remain 0 so 5*5
+
+5 if nlist's item position odd item will be item +3
+
+6	0/2 remain 0 so skip
+        1/2 remain 1 so 2+3 
+	2/2 remain 0 so skip
+	3/2 remain 1 so 4+3
+	4/2 remain 0 so skip
+
+7 return nlist
