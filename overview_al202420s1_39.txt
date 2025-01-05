@@ -1,0 +1,15 @@
+1 create a list called qns
+2 create a loop and get values to x
+	x=1
+	x=2
+
+3 create a loop and get values to y
+	y=a
+	y=b
+
+** x travels all elements in qns(y)
+
+4 print xy and space
+
+answer
+1a 2a 1b 2b  
