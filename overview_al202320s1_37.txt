@@ -1,0 +1,7 @@
+1 get  an input value to x & converts into int
+	*in this Question x = 25
+2 x =  reminder of 25/(25-21)**3
+		   (25/4)(25/4)(25/4)
+		   1*1*1
+			1
+3 print (1)

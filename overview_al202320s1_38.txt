@@ -1,0 +1,9 @@
+1 make a  function name fun inside 2 parameters (a,b)
+	*in this Question a=2 b=4
+2 reverse the parameters and save in foo(b,a)(4,2)
+3
+4 make a function name foo and get values from foo  in 2nd line (b,a)(4,2)
+5 (substract) para3-para4 (b-a)(4-2)
+6
+7 
+8 print result(2)
